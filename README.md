@@ -22,7 +22,7 @@ Seaborn & Matplotlib for data visualization
 Streamlit for building the web interface
 
 📁 Data Source:
-Historical Olympics dataset (usually from Kaggle or the IOC archive)
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 🎯 Objective:
 The project aims to make Olympic data exploration accessible and visual, helping users uncover trends, patterns, and key statistics in a simple and engaging way.
